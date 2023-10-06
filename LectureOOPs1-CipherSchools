@@ -28,7 +28,7 @@ class bus : public vehicle{
     public :
     void calcna()
     {
-        cout<<"The Name of the school is "<<name<<endl;
+        cout<<"The Name of the school is "<<schname<<endl;
     }
 };
 int main()
